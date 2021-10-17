@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/husnisir">husni</a> to make it pu
     
 <p align="center">
 
-<a href="https://instagram.com/__husniz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_husni__jr_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
@@ -46,7 +46,7 @@ Project created by <a href="https://github.com/husnisir">husni</a> to make it pu
 
 <p align="center">
 
-<a href="https://youtu.be/dm_kVZ0m2eY" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 ```
   
 husniser_v2_v2 Userbot is Open Source software open to development. 
@@ -105,10 +105,10 @@ $ node qr.js
 $ node bot.js
 ```
 # 📢 Guide
-Click WA logo to Join Support Group 👇
+Click WA logo to Join whatsapp bot group 👇
     <br>
 <br>
-<a href="https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/GD9x9u0NLEPI66B1MFzzkj"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
 
     
